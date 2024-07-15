@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Kaart | Rijksoverheid</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        #mainwrapper {
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+        }
+
+        #content-wrapper {
+            display: flex;
+            flex: 1;
+            overflow: hidden;
+        }
+
+        #sidebar {
+            width: 300px;
+            overflow-y: auto;
+            padding: 10px;
+            background-color: #f8f8f8;
+        }
+
+        #content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        #map {
+            flex: 1;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div id="mainwrapper">
+        <header>
+            <div class="logo">
+                <div class="logo__wrapper">
+                    <a href="https://www.rijksoverheid.nl/" class="logo__link">
+                        <figure class="logo__figure">
+                            <img src="https://rijksoverheid.nl/binaries/content/gallery/rijksoverheid/channel-afbeeldingen/logos/beeldmerk-rijksoverheid-desktop.svg" data-fallback="https://rijksoverheid.nl/binaries/content/gallery/rijksoverheid/channel-afbeeldingen/logos/beeldmerk-rijksoverheid-mobiel.svg" alt="Logo Rijksoverheid – Naar de homepage van rijksoverheid.nl" id="logotype"/>
+                            
+                        </figure>
+                    </a>
+                </div>
+            </div>
+        </header>
+
+        <div id="navBar">
+            <div class="wrapper">
+                <nav class="mainNav" data-mobilebtntxt="Menu" data-closemobilenavtxt="Sluiten">
+                    <ul id="topMenu">
+                        <li><a href="kaart1.html">Home</a></li>
+                        <li><a href="kaart1.html">Kaart</a></li>
+                        <li><a href="kaart1.html">Tabellen</a></li>
+                        <li><a href="kaart1.html">Nieuws</a></li>
+                        <li><a href="kaart1.html">Opendata</a></li>
+                        <li><a href="kaart1.html">Publicaties</a></li>
+                        <li><a href="kaart1.html">FAQ</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+
+        <div id="content-wrapper">
+            <aside id="sidebar">
+                <form>
+                    <label for="indicators">Indicators: </label>
+                    <select id="indicators" name="indicators">
+                        <option value="option1">All/Total Score</option>
+                        <option value="option2">Housing Stock</option>
+                        <option value="option3">Physical Environment</option>
+                        <option value="option4">Services</option>
+                        <option value="option5">Social Cohesion</option>
+                        <option value="option6">Nuisance and insecurity</option>
+                    </select>
+                </form>
+                <form>
+                    <label for="studentInfo">VU Student related information: <br><small>(Note: these scores are added to the total Neighbourhood score)</small></label>
+                    <div id="studentInfo" class="checklist">
+                        <div class="checklist-item">
+                            <input type="checkbox" id="distance" name="studentInfo" value="distance">
+                            <label for="distance">Distance to VU</label>
+                        </div>
+                        <div class="checklist-item">
+                            <input type="checkbox" id="travelTime" name="studentInfo" value="travelTime">
+                            <label for="travelTime">Travel Time to VU</label>
+                        </div>
+                        <div class="checklist-item">
+                            <input type="checkbox" id="rooms" name="studentInfo" value="rooms">
+                            <label for="rooms">Student accommodation: Rooms and Studios</label>
+                        </div>
+                        <div class="checklist-item">
+                            <input type="checkbox" id="apartments" name="studentInfo" value="apartments">
+                            <label for="apartments">Student accommodation: Apartments</label>
+                        </div>
+                    </div>
+                </form>
+                
+                <form>
+                    <label for="Period">Period:  </label>
+                    <select id="options" name="options">
+                        <option value="option4" selected>2022</option>
+                    </select>
+                </form>
+                <form>
+                    <label for="Scale">Spatial scale level:  </label>
+                    <select id="options" name="options">
+                        <option value="option1">District</option>
+                    </select>
+                </form>
+            </aside>
+            <main id="content">
+                <div id="map"><div id="imageContainer">
+                    <img id="image1" src="image1.png" alt="Image 1"> 
+                    <img id="image2" src="image2.png" alt="Image 2"> 
+                    <img id="image3" src="Scale.png" alt="Image 3"> 
+                    <img id="image4" src="image4.png" alt="Image 3">
+                </div></div>
+                
+            </main>
+            
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    <script src="scripts.js"></script>
+</body>
+</html>

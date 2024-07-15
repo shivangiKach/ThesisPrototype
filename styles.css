@@ -1,0 +1,303 @@
+body, h1, h2, h3, p, ul, li {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+#mainwrapper, .wrapper {
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+header {
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.logo__wrapper {
+    max-width: 200px;
+}
+
+.logo__link {
+    display: block;
+}
+
+.logo__figure {
+    margin: 0;
+}
+
+.logo__text {
+    font-family: "RO Serif", Calibri, sans-serif;
+    font-size: 1rem;
+    line-height: 1.1;
+    width: 100%;
+    max-width: 300px;
+    padding: 20px 10px 10px;
+    color: #000;
+}
+
+.logo__sender {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    
+    font-size: 18px;
+    color: #000;
+}
+
+#navBar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    min-height: 70px;
+    background-color: #01689b;
+}
+
+#navBar .wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 0 -16px;
+    position: relative;
+}
+
+
+.mainNav ul {
+    display: none;
+    margin: 0 1rem 1.5rem;
+    padding: 0;
+    list-style: none;
+}
+
+.mainNav ul li {
+    width: 100%;
+    margin: 0;
+}
+
+.mainNav ul li a {
+    display: block;
+    padding: 1rem 0.25rem;
+    text-decoration: none;
+    color: #fff;
+    border-top: 1px solid #fff;
+}
+
+.mainNav ul li a:hover {
+    text-decoration: underline;
+}
+
+@media (min-width: 768px) {
+    .mainNav {
+        width: auto;
+        margin: 0 16px 0 auto;
+        background: transparent;
+    }
+
+    .mainNav.mobile {
+        display: none;
+    }
+
+    .no-js .mainNav ul {
+        display: flex;
+    }
+
+    .mainNav ul {
+        display: flex;
+        overflow: visible;
+        margin: 0;
+    }
+
+    .mainNav ul li {
+        width: auto;
+        padding: 0 0.5rem;
+    }
+
+    .mainNav ul li a {
+        padding: 0.5rem 0.25rem;
+        border: none;
+    }
+}
+
+.breadCrumbNav {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0 16px;
+    padding: 1.5rem 0 0.75rem;
+    font-size: 1.6rem;
+    color: #fff;
+}
+
+
+
+.breadCrumbNav > a, .breadCrumbNav > span {
+    padding-bottom: 0.75rem;
+    display: flex;
+    align-items: center;
+    color: #fff;
+}
+
+.breadCrumbNav > a {
+    position: relative;
+    margin-right: 1rem;
+    text-decoration: none;
+}
+
+
+.breadCrumbNav > a:after {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    content: ">";
+    font-family: "RO Icons";
+    font-size: 0.7em;
+    width: 12px;
+    height: 28px;
+    position: relative;
+    right: -8px;
+    bottom: -1px;
+}
+
+@media (min-width: 576px) {
+    .breadCrumbNav > a:after {
+        right: -22px;
+    }
+}
+
+.breadCrumbNav > a:hover {
+    text-decoration: underline;
+}
+
+.breadCrumbNav > span {
+    font-weight: bold;
+}
+
+
+#content-wrapper {
+    display: flex;
+    padding-top: 20px;
+}
+
+#sidebar {
+    width: 18%;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.sidebar-menu {
+    list-style: none;
+    padding: 0;
+}
+
+.sidebar-menu li {
+    margin-bottom: 10px;
+}
+
+.sidebar-menu li a {
+    display: block;
+    text-decoration: none;
+    color: #333;
+}
+
+.sidebar-menu .dropdown-container {
+    display: none;
+    padding-left: 20px;
+}
+
+.sidebar-menu .dropdown-container li {
+    margin-bottom: 5px;
+}
+
+.sidebar-menu .dropdown-container li a {
+    color: #555;
+}
+
+
+.dropdown-btn {
+    cursor: pointer;
+}
+
+
+.active {
+    background-color: #ddd;
+}
+
+
+.dropdown-btn.active + .dropdown-container {
+    display: block;
+}
+
+#sidebar form {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+/* CSS for the information button */
+.info-button {
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.info-button button {
+    background: none;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#imageContainer {
+    position: absolute;
+    bottom: 10px; /* Adjust the bottom position as needed */
+    right: 10px; /* Adjust the right position as needed */
+    z-index: 1000; /* Ensure images appear above the map */
+}
+
+#imageContainer img {
+    width: 250px; /* Adjust image width as needed */
+    height: 200px; /* Maintain aspect ratio */
+    margin-bottom: 10px; /* Add some space between images */
+    display: none; /* Hide images by default */
+}
+
+.checklist {
+    margin-top: 10px;
+}
+
+.checklist-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.checklist-item input {
+    margin-right: 10px;
+}
+
+.checklist-item label {
+    margin: 0;
+}

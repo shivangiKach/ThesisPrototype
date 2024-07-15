@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:adms="http://www.w3.org/ns/adms#"
+   xmlns:dcat="http://www.w3.org/ns/dcat#"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:donl="https://data.overheid.nl/dcat.rdf#"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:v="http://www.w3.org/2006/vcard/"
+>
+  <rdf:Description rdf:about="https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016">
+    <dcat:keyword xml:lang="nl">BZK</dcat:keyword>
+    <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/deed.nl"/>
+    <adms:identifier rdf:resource="https://data.overheid.nl/data/dataset/leefbaarometer-2-0---meting-2016"/>
+    <donl:authority rdf:resource="http://standaarden.overheid.nl/owms/terms/Ministerie_van_Binnenlandse_Zaken_en_Koninkrijksrelaties"/>
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#Dataset"/>
+    <donl:sourceCatalog rdf:resource="https://data.overheid.nl"/>
+    <dct:title xml:lang="nl">Leefbaarometer 2.0 = meting 2016</dct:title>
+    <dcat:contactPoint rdf:nodeID="dataset.leefbaarometer-2-0---meting-2016.contactPoint"/>
+    <dcat:distribution rdf:nodeID="dataset.leefbaarometer-2-0---meting-2016.distribution.4"/>
+    <dcat:keyword xml:lang="nl">wijken</dcat:keyword>
+    <dcat:distribution rdf:nodeID="dataset.leefbaarometer-2-0---meting-2016.distribution.10"/>
+    <donl:language rdf:resource="http://publications.europa.eu/resource/authority/language/NLD"/>
+    <dcat:distribution rdf:nodeID="dataset.leefbaarometer-2-0---meting-2016.distribution.6"/>
+    <dcat:distribution rdf:nodeID="dataset.leefbaarometer-2-0---meting-2016.distribution.5"/>
+    <dcat:keyword xml:lang="nl">veiligheid</dcat:keyword>
+    <dct:description xml:lang="nl">Met behulp van de Leefbaarometer kan leefbaarheid in alle bewoonde wijken, buurten en straten in Nederland gemonitord worden. Op basis van een honderdtal objectieve indicatoren geeft de Leefbaarometer een schatting hoe de Leefbaarheid er is en hoe deze zich in de afgelopen jaren ontwikkeld heeft. Hiermee biedt de Leefbaarometer basismateriaal voor beleidsvoorbereiding, -bijsturing en –evaluatie voor verschillende partijen.&#13;
+&#13;
+Het model van de Leefbaarometer is in 2015 geheel herzien, waarna in 2016 de resultaten tot en met meetjaar 2014 zijn gepubliceerd. Iedere twee jaar vindt een nieuwe meting plaats met behulp van dit model.Deze dataset bevat - naast de resultaten ven voorgaande jaren - de resultaten met de data over 2016. Het gegevensbestand bevat de leefbaarheidsklassen en de ontwikkelingsklassen per gemeente/wijk/buurt/4ppc voor de jaren 2002, 2008, 2012, 2014 en 2016, plus de afwijkingen van het landelijk gemiddelde per dimensie voor de jaren 2012, 2014  en 2016. Daarnaast zijn de shapefiles voor de gebruikte topografische indelingen beschikbaar.&#13;
+</dct:description>
+    <donl:publisher rdf:resource="http://standaarden.overheid.nl/owms/terms/Ministerie_van_Binnenlandse_Zaken_en_Koninkrijksrelaties"/>
+    <dcat:distribution rdf:nodeID="dataset.leefbaarometer-2-0---meting-2016.distribution.7"/>
+    <donl:metadataLanguage rdf:resource="http://publications.europa.eu/resource/authority/language/NLD"/>
+    <dcat:distribution rdf:nodeID="dataset.leefbaarometer-2-0---meting-2016.distribution.2"/>
+    <adms:identifier rdf:resource="https://data.overheid.nl/data/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100"/>
+    <dcat:distribution rdf:nodeID="dataset.leefbaarometer-2-0---meting-2016.distribution.3"/>
+    <donl:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <dcat:theme rdf:resource="http://standaarden.overheid.nl/owms/terms/Huisvesting_(thema)"/>
+    <dcat:keyword xml:lang="nl">leefbaarheid</dcat:keyword>
+    <dcat:keyword xml:lang="nl">leefbaarometer</dcat:keyword>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016"/>
+    <dcat:keyword xml:lang="nl">buurten</dcat:keyword>
+    <donl:status rdf:resource="http://data.overheid.nl/status/beschikbaar"/>
+    <dcat:distribution rdf:nodeID="dataset.leefbaarometer-2-0---meting-2016.distribution.1"/>
+    <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/BIENNIAL"/>
+    <dcat:keyword xml:lang="nl">bewoners</dcat:keyword>
+    <dcat:distribution rdf:nodeID="dataset.leefbaarometer-2-0---meting-2016.distribution.11"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100"/>
+    <dcat:distribution rdf:nodeID="dataset.leefbaarometer-2-0---meting-2016.distribution.9"/>
+    <dcat:keyword xml:lang="nl">leefbarometer</dcat:keyword>
+    <adms:identifier rdf:resource="https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100"/>
+    <adms:identifier rdf:resource="https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016"/>
+    <dcat:keyword xml:lang="nl">woningvoorraad</dcat:keyword>
+    <donl:identifier rdf:resource="https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2018-01-08T17:17:36</dct:modified>
+    <dcat:distribution rdf:nodeID="dataset.leefbaarometer-2-0---meting-2016.distribution.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="dataset.leefbaarometer-2-0---meting-2016.distribution.2">
+    <dct:description xml:lang="nl">Gemiddelde leefbaarometerscore per gemeente</dct:description>
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#Distribution"/>
+    <dcat:accessURL rdf:resource="https://data.overheid.nl/OpenDataSets/LBM2016/Gemeente.zip"/>
+    <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/deed.nl"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016.rdf"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100.rdf"/>
+    <dct:title xml:lang="nl">Score Leefbaarometer Gemeente 2016</dct:title>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/NLD"/>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLS"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2018-12-12T16:15:28.001823</dct:issued>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="dataset.leefbaarometer-2-0---meting-2016.distribution.6">
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100.rdf"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016.rdf"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2018-12-12T16:15:28.001849</dct:issued>
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#Distribution"/>
+    <dct:title xml:lang="nl">Score Grid 2016</dct:title>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLS"/>
+    <dcat:accessURL rdf:resource="https://data.overheid.nl/OpenDataSets/LBM2016/Grid.zip"/>
+    <dct:description xml:lang="nl">Scores (stand en ontwikkeling) leefbaarheid op gridniveau 2002-2008-2012-2014-2016</dct:description>
+    <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/deed.nl"/>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/NLD"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="dataset.leefbaarometer-2-0---meting-2016.distribution.7">
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016.rdf"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100.rdf"/>
+    <dct:description xml:lang="nl">ESRI Shapefile gemeenten 2016</dct:description>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/SHP"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2018-12-12T16:15:28.001855</dct:issued>
+    <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/deed.nl"/>
+    <dcat:accessURL rdf:resource="https://data.overheid.nl/OpenDataSets/LBM2016/Gemeente2016.zip"/>
+    <dct:title xml:lang="nl">Shape gemeente 2016</dct:title>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/NLD"/>
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#Distribution"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="dataset.leefbaarometer-2-0---meting-2016.distribution.4">
+    <dct:description xml:lang="nl">Gemiddelde leefbaarometerscore per pc4-gebied</dct:description>
+    <dct:title xml:lang="nl">Score Leefbaarometer PC4 2016</dct:title>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLS"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016.rdf"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2018-12-12T16:15:28.001837</dct:issued>
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#Distribution"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100.rdf"/>
+    <dcat:accessURL rdf:resource="https://data.overheid.nl/OpenDataSets/LBM2016/PC4.zip"/>
+    <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/deed.nl"/>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/NLD"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.overheid.nl/status/beschikbaar">
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/vocabularies.rdf"/>
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#DatasetStatus"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="dataset.leefbaarometer-2-0---meting-2016.distribution.5">
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLS"/>
+    <dct:title xml:lang="nl">Score Buurt 2016</dct:title>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2018-12-12T16:15:28.001843</dct:issued>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/NLD"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100.rdf"/>
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#Distribution"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016.rdf"/>
+    <dct:description xml:lang="nl">Scores (stand en ontwikkeling) leefbaarheid op buurtniveau 2002-2008-2012-2014-2016</dct:description>
+    <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/deed.nl"/>
+    <dcat:accessURL rdf:resource="https://data.overheid.nl/OpenDataSets/LBM2016/Buurt.zip"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="dataset.leefbaarometer-2-0---meting-2016.distribution.3">
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016.rdf"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100.rdf"/>
+    <dct:description xml:lang="nl">Gemiddelde leefbaarometerscore per wijk 2016</dct:description>
+    <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/deed.nl"/>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/NLD"/>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLS"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2018-12-12T16:15:28.001830</dct:issued>
+    <dct:title xml:lang="nl">Score Leefbaaroemeter wijk 2016</dct:title>
+    <dcat:accessURL rdf:resource="https://data.overheid.nl/OpenDataSets/LBM2016/Wijk.zip"/>
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#Distribution"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100">
+    <adms:status xml:lang="nl">:updated</adms:status>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100.rdf"/>
+    <dct:description xml:lang="nl">Met behulp van de Leefbaarometer kan leefbaarheid in alle bewoonde wijken, buurten en straten in Nederland gemonitord worden. Op basis van een honderdtal objectieve indicatoren geeft de Leefbaarometer een schatting hoe de Leefbaarheid er is en hoe deze zich in de afgelopen jaren ontwikkeld heeft. Hiermee biedt de Leefbaarometer basismateriaal voor beleidsvoorbereiding, -bijsturing en –evaluatie voor verschillende partijen.&#13;
+&#13;
+Het model van de Leefbaarometer is in 2015 geheel herzien, waarna in 2016 de resultaten tot en met meetjaar 2014 zijn gepubliceerd. Iedere twee jaar vindt een nieuwe meting plaats met behulp van dit model.Deze dataset bevat - naast de resultaten ven voorgaande jaren - de resultaten met de data over 2016. Het gegevensbestand bevat de leefbaarheidsklassen en de ontwikkelingsklassen per gemeente/wijk/buurt/4ppc voor de jaren 2002, 2008, 2012, 2014 en 2016, plus de afwijkingen van het landelijk gemiddelde per dimensie voor de jaren 2012, 2014  en 2016. Daarnaast zijn de shapefiles voor de gebruikte topografische indelingen beschikbaar.&#13;
+</dct:description>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2020-08-30T10:44:07.477286</dct:modified>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016.rdf"/>
+    <dct:title xml:lang="nl">leefbaarometer-2-0---meting-2016</dct:title>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2020-04-02T21:36:27.305535</dct:issued>
+    <foaf:primaryTopic rdf:resource="https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#CatalogRecord"/>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/NLD"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="dataset.leefbaarometer-2-0---meting-2016.distribution.8">
+    <dcat:accessURL rdf:resource="https://data.overheid.nl/OpenDataSets/LBM2016/Wijk2016.zip"/>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/SHP"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2018-12-12T16:15:28.001861</dct:issued>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/NLD"/>
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#Distribution"/>
+    <dct:description xml:lang="nl">ESRI Shapefile wijken 2016</dct:description>
+    <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/deed.nl"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016.rdf"/>
+    <dct:title xml:lang="nl">Shape wijk 2016</dct:title>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100.rdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC">
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/vocabularies.rdf"/>
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#OpenbaarheidsNiveau"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="dataset.leefbaarometer-2-0---meting-2016.distribution.11">
+    <dcat:accessURL rdf:resource="https://data.overheid.nl/OpenDataSets/LBM2016/Grid2016.zip"/>
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#Distribution"/>
+    <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/deed.nl"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016.rdf"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100.rdf"/>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/SHP"/>
+    <dct:title xml:lang="nl">Shape grid 2016</dct:title>
+    <dct:description xml:lang="nl">ESRI shapefile per grid-cel (100x100m)</dct:description>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/NLD"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2018-12-12T16:15:28.001878</dct:issued>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="dataset.leefbaarometer-2-0---meting-2016.distribution.10">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2018-12-12T16:15:28.001873</dct:issued>
+    <dct:title xml:lang="nl">Shape buurt 2016 zonder water</dct:title>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100.rdf"/>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/NLD"/>
+    <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/deed.nl"/>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/SHP"/>
+    <dct:description xml:lang="nl">Shapefile buurtindeling Leefbaarometer 2016</dct:description>
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#Distribution"/>
+    <dcat:accessURL rdf:resource="https://data.overheid.nl/OpenDataSets/LBM2016/Buurt2016.zip"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016.rdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/file-type/SHP">
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/vocabularies.rdf"/>
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#Format"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://standaarden.overheid.nl/owms/terms/Huisvesting_(thema)">
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/vocabularies.rdf"/>
+    <rdf:type rdf:resource="http://standaarden.overheid.nl/owms/terms/Thema"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="dataset.leefbaarometer-2-0---meting-2016.distribution.1">
+    <dct:description xml:lang="nl">De data van de Leefbaarometer 2.0 meting 2002-2016 worden geleverd in 10 zipfiles met in totaal 15 Excelbestanden met de scores en 5 ESRI-shapefiles voor het maken van kaarten. Dit document is een toelichting bij deze bestanden.</dct:description>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/PDF"/>
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#Distribution"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016.rdf"/>
+    <dct:title xml:lang="nl">Toelichting open data Leefbaarometer 2016</dct:title>
+    <dcat:accessURL rdf:resource="https://data.overheid.nl/OpenDataSets/LBM2016/Toelichting.pdf"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100.rdf"/>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/NLD"/>
+    <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/deed.nl"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2018-12-12T16:15:28.001805</dct:issued>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/language/NLD">
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/vocabularies.rdf"/>
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#Language"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="dataset.leefbaarometer-2-0---meting-2016.distribution.9">
+    <dct:description xml:lang="nl">ESRI Shapefile pc4-gebieden 2016</dct:description>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/NLD"/>
+    <dcat:accessURL rdf:resource="https://data.overheid.nl/OpenDataSets/LBM2016/ShapePC4.zip"/>
+    <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/deed.nl"/>
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#Distribution"/>
+    <dct:title xml:lang="nl">Shape PC4 2016</dct:title>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016.rdf"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100.rdf"/>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/SHP"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2018-12-12T16:15:28.001867</dct:issued>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/frequency/BIENNIAL">
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#Frequency"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/vocabularies.rdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/file-type/PDF">
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#Format"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/vocabularies.rdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://standaarden.overheid.nl/owms/terms/Ministerie_van_Binnenlandse_Zaken_en_Koninkrijksrelaties">
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#Organization"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/vocabularies.rdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.overheid.nl">
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/vocabularies.rdf"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Catalog"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://creativecommons.org/publicdomain/zero/1.0/deed.nl">
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/vocabularies.rdf"/>
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#License"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="dataset.leefbaarometer-2-0---meting-2016.contactPoint">
+    <rdf:type rdf:resource="http://www.w3.org/2006/vcard/Kind"/>
+    <v:email rdf:resource="mailto:postbus.leefbaarometer@minbzk.nl"/>
+    <v:fn xml:lang="nl">Simon Bakker</v:fn>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/file-type/XLS">
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/vocabularies.rdf"/>
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#Format"/>
+  </rdf:Description>
+</rdf:RDF>

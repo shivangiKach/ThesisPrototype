@@ -1,0 +1,194 @@
+Subject,Predicate,Object
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://www.w3.org/ns/adms#identifier,https://data.overheid.nl/data/dataset/leefbaarometer-2-0---meting-2016
+N7c806236309440a69dd157ccc43c3a2e,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016.rdf
+N22ca7facd7af4bb88d335bc43a6431bd,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100.rdf
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016
+Ned7a2e160aca476399093dfceba03ac9,http://purl.org/dc/terms/license,http://creativecommons.org/publicdomain/zero/1.0/deed.nl
+N9fb68fc834e542558d174b81e948dfd2,http://purl.org/dc/terms/license,http://creativecommons.org/publicdomain/zero/1.0/deed.nl
+https://data.overheid.nl,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/vocabularies.rdf
+N73c5fd4f415b48bc9b02aeed04ffcb48,http://purl.org/dc/terms/description,Gemiddelde leefbaarometerscore per gemeente
+N0bce7b559693484099bc689ef235a5c2,http://purl.org/dc/terms/description,Scores (stand en ontwikkeling) leefbaarheid op gridniveau 2002-2008-2012-2014-2016
+N0360313001144f93b790ff98035270fd,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100.rdf
+Na5043493c38743019c2f53dbb71a541d,http://purl.org/dc/terms/title,Shape buurt 2016 zonder water
+Nac94bdfaf25846509f2b7b7b82359d87,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100.rdf
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://purl.org/dc/terms/license,http://creativecommons.org/publicdomain/zero/1.0/deed.nl
+http://creativecommons.org/publicdomain/zero/1.0/deed.nl,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://data.overheid.nl/dcat.rdf#License
+https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100,http://purl.org/dc/terms/language,http://publications.europa.eu/resource/authority/language/NLD
+N0360313001144f93b790ff98035270fd,http://purl.org/dc/terms/language,http://publications.europa.eu/resource/authority/language/NLD
+Na5043493c38743019c2f53dbb71a541d,http://purl.org/dc/terms/language,http://publications.europa.eu/resource/authority/language/NLD
+N73c5fd4f415b48bc9b02aeed04ffcb48,http://purl.org/dc/terms/license,http://creativecommons.org/publicdomain/zero/1.0/deed.nl
+N0bce7b559693484099bc689ef235a5c2,http://purl.org/dc/terms/license,http://creativecommons.org/publicdomain/zero/1.0/deed.nl
+N9fb68fc834e542558d174b81e948dfd2,http://purl.org/dc/terms/title,Score Buurt 2016
+https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100,http://purl.org/dc/terms/description,"Met behulp van de Leefbaarometer kan leefbaarheid in alle bewoonde wijken, buurten en straten in Nederland gemonitord worden. Op basis van een honderdtal objectieve indicatoren geeft de Leefbaarometer een schatting hoe de Leefbaarheid er is en hoe deze zich in de afgelopen jaren ontwikkeld heeft. Hiermee biedt de Leefbaarometer basismateriaal voor beleidsvoorbereiding, -bijsturing en –evaluatie voor verschillende partijen.
+
+Het model van de Leefbaarometer is in 2015 geheel herzien, waarna in 2016 de resultaten tot en met meetjaar 2014 zijn gepubliceerd. Iedere twee jaar vindt een nieuwe meting plaats met behulp van dit model.Deze dataset bevat - naast de resultaten ven voorgaande jaren - de resultaten met de data over 2016. Het gegevensbestand bevat de leefbaarheidsklassen en de ontwikkelingsklassen per gemeente/wijk/buurt/4ppc voor de jaren 2002, 2008, 2012, 2014 en 2016, plus de afwijkingen van het landelijk gemiddelde per dimensie voor de jaren 2012, 2014  en 2016. Daarnaast zijn de shapefiles voor de gebruikte topografische indelingen beschikbaar.
+"
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://www.w3.org/ns/dcat#contactPoint,Nb6504a1aee4a4dc4899ffbe246a40bb1
+N22ca7facd7af4bb88d335bc43a6431bd,http://purl.org/dc/terms/format,http://publications.europa.eu/resource/authority/file-type/SHP
+N22ca7facd7af4bb88d335bc43a6431bd,http://purl.org/dc/terms/language,http://publications.europa.eu/resource/authority/language/NLD
+https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016.rdf
+N1226eaba051e4fcf9119146296a732f0,http://purl.org/dc/terms/title,Score Leefbaarometer PC4 2016
+N1226eaba051e4fcf9119146296a732f0,http://purl.org/dc/terms/language,http://publications.europa.eu/resource/authority/language/NLD
+N9fb68fc834e542558d174b81e948dfd2,http://www.w3.org/ns/dcat#accessURL,https://data.overheid.nl/OpenDataSets/LBM2016/Buurt.zip
+N7c806236309440a69dd157ccc43c3a2e,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100.rdf
+N9fb68fc834e542558d174b81e948dfd2,http://purl.org/dc/terms/language,http://publications.europa.eu/resource/authority/language/NLD
+N1226eaba051e4fcf9119146296a732f0,http://purl.org/dc/terms/description,Gemiddelde leefbaarometerscore per pc4-gebied
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://www.w3.org/ns/dcat#theme,http://standaarden.overheid.nl/owms/terms/Huisvesting_(thema)
+N22ca7facd7af4bb88d335bc43a6431bd,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016.rdf
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://www.w3.org/ns/dcat#keyword,leefbaarheid
+N1226eaba051e4fcf9119146296a732f0,http://www.w3.org/ns/dcat#accessURL,https://data.overheid.nl/OpenDataSets/LBM2016/PC4.zip
+https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100,http://www.w3.org/ns/adms#status,:updated
+Na5043493c38743019c2f53dbb71a541d,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://data.overheid.nl/dcat.rdf#Distribution
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://www.w3.org/ns/dcat#distribution,N9fb68fc834e542558d174b81e948dfd2
+N7c806236309440a69dd157ccc43c3a2e,http://purl.org/dc/terms/format,http://publications.europa.eu/resource/authority/file-type/SHP
+http://standaarden.overheid.nl/owms/terms/Ministerie_van_Binnenlandse_Zaken_en_Koninkrijksrelaties,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/vocabularies.rdf
+N22ca7facd7af4bb88d335bc43a6431bd,http://purl.org/dc/terms/title,Shape grid 2016
+N0360313001144f93b790ff98035270fd,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016.rdf
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://www.w3.org/ns/dcat#distribution,Nac94bdfaf25846509f2b7b7b82359d87
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://www.w3.org/ns/dcat#distribution,Ned7a2e160aca476399093dfceba03ac9
+N22ca7facd7af4bb88d335bc43a6431bd,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://data.overheid.nl/dcat.rdf#Distribution
+Nac94bdfaf25846509f2b7b7b82359d87,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016.rdf
+http://publications.europa.eu/resource/authority/access-right/PUBLIC,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://data.overheid.nl/dcat.rdf#OpenbaarheidsNiveau
+https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100,http://purl.org/dc/terms/title,leefbaarometer-2-0---meting-2016
+N0bce7b559693484099bc689ef235a5c2,http://purl.org/dc/terms/title,Score Grid 2016
+http://publications.europa.eu/resource/authority/language/NLD,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://data.overheid.nl/dcat.rdf#Language
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://www.w3.org/ns/dcat#distribution,N0bce7b559693484099bc689ef235a5c2
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://www.w3.org/ns/dcat#distribution,N1226eaba051e4fcf9119146296a732f0
+N0360313001144f93b790ff98035270fd,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://data.overheid.nl/dcat.rdf#Distribution
+Nac94bdfaf25846509f2b7b7b82359d87,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://data.overheid.nl/dcat.rdf#Distribution
+Ned7a2e160aca476399093dfceba03ac9,http://purl.org/dc/terms/issued,2018-12-12T16:15:28.001855
+http://publications.europa.eu/resource/authority/file-type/SHP,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://data.overheid.nl/dcat.rdf#Format
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://data.overheid.nl/dcat.rdf#Dataset
+Na5043493c38743019c2f53dbb71a541d,http://purl.org/dc/terms/description,Shapefile buurtindeling Leefbaarometer 2016
+N7c806236309440a69dd157ccc43c3a2e,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://data.overheid.nl/dcat.rdf#Distribution
+Ned7a2e160aca476399093dfceba03ac9,http://www.w3.org/ns/dcat#accessURL,https://data.overheid.nl/OpenDataSets/LBM2016/Gemeente2016.zip
+N73c5fd4f415b48bc9b02aeed04ffcb48,http://purl.org/dc/terms/title,Score Leefbaarometer Gemeente 2016
+N22ca7facd7af4bb88d335bc43a6431bd,http://purl.org/dc/terms/description,ESRI shapefile per grid-cel (100x100m)
+Nac94bdfaf25846509f2b7b7b82359d87,http://purl.org/dc/terms/format,http://publications.europa.eu/resource/authority/file-type/PDF
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://www.w3.org/ns/dcat#distribution,Na5043493c38743019c2f53dbb71a541d
+http://standaarden.overheid.nl/owms/terms/Huisvesting_(thema),http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/vocabularies.rdf
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://www.w3.org/ns/dcat#distribution,N7c806236309440a69dd157ccc43c3a2e
+Ned7a2e160aca476399093dfceba03ac9,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100.rdf
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,https://data.overheid.nl/dcat.rdf#language,http://publications.europa.eu/resource/authority/language/NLD
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,https://data.overheid.nl/dcat.rdf#authority,http://standaarden.overheid.nl/owms/terms/Ministerie_van_Binnenlandse_Zaken_en_Koninkrijksrelaties
+N9fb68fc834e542558d174b81e948dfd2,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100.rdf
+http://standaarden.overheid.nl/owms/terms/Huisvesting_(thema),http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://standaarden.overheid.nl/owms/terms/Thema
+N22ca7facd7af4bb88d335bc43a6431bd,http://purl.org/dc/terms/issued,2018-12-12T16:15:28.001878
+Nb6504a1aee4a4dc4899ffbe246a40bb1,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2006/vcard/Kind
+Na5043493c38743019c2f53dbb71a541d,http://purl.org/dc/terms/format,http://publications.europa.eu/resource/authority/file-type/SHP
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://www.w3.org/ns/adms#identifier,https://data.overheid.nl/data/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,https://data.overheid.nl/dcat.rdf#publisher,http://standaarden.overheid.nl/owms/terms/Ministerie_van_Binnenlandse_Zaken_en_Koninkrijksrelaties
+Nac94bdfaf25846509f2b7b7b82359d87,http://purl.org/dc/terms/language,http://publications.europa.eu/resource/authority/language/NLD
+N0bce7b559693484099bc689ef235a5c2,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100.rdf
+https://data.overheid.nl,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/ns/dcat#Catalog
+https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/ns/dcat#CatalogRecord
+Nd63f6832b8904c2cb02a376644e0aada,http://purl.org/dc/terms/issued,2018-12-12T16:15:28.001861
+Nd63f6832b8904c2cb02a376644e0aada,http://purl.org/dc/terms/license,http://creativecommons.org/publicdomain/zero/1.0/deed.nl
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://www.w3.org/ns/dcat#keyword,leefbaarometer
+Ned7a2e160aca476399093dfceba03ac9,http://purl.org/dc/terms/language,http://publications.europa.eu/resource/authority/language/NLD
+http://data.overheid.nl/status/beschikbaar,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/vocabularies.rdf
+http://publications.europa.eu/resource/authority/file-type/PDF,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://data.overheid.nl/dcat.rdf#Format
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,https://data.overheid.nl/dcat.rdf#status,http://data.overheid.nl/status/beschikbaar
+Ned7a2e160aca476399093dfceba03ac9,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016.rdf
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://purl.org/dc/terms/accrualPeriodicity,http://publications.europa.eu/resource/authority/frequency/BIENNIAL
+N1226eaba051e4fcf9119146296a732f0,http://purl.org/dc/terms/issued,2018-12-12T16:15:28.001837
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://www.w3.org/ns/dcat#distribution,Nd63f6832b8904c2cb02a376644e0aada
+N9fb68fc834e542558d174b81e948dfd2,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016.rdf
+Nac94bdfaf25846509f2b7b7b82359d87,http://purl.org/dc/terms/title,Toelichting open data Leefbaarometer 2016
+Ned7a2e160aca476399093dfceba03ac9,http://purl.org/dc/terms/description,ESRI Shapefile gemeenten 2016
+Ned7a2e160aca476399093dfceba03ac9,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://data.overheid.nl/dcat.rdf#Distribution
+N0360313001144f93b790ff98035270fd,http://purl.org/dc/terms/format,http://publications.europa.eu/resource/authority/file-type/XLS
+N73c5fd4f415b48bc9b02aeed04ffcb48,http://www.w3.org/ns/dcat#accessURL,https://data.overheid.nl/OpenDataSets/LBM2016/Gemeente.zip
+N9fb68fc834e542558d174b81e948dfd2,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://data.overheid.nl/dcat.rdf#Distribution
+N73c5fd4f415b48bc9b02aeed04ffcb48,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016.rdf
+N0bce7b559693484099bc689ef235a5c2,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016.rdf
+N7c806236309440a69dd157ccc43c3a2e,http://www.w3.org/ns/dcat#accessURL,https://data.overheid.nl/OpenDataSets/LBM2016/ShapePC4.zip
+N9fb68fc834e542558d174b81e948dfd2,http://purl.org/dc/terms/description,Scores (stand en ontwikkeling) leefbaarheid op buurtniveau 2002-2008-2012-2014-2016
+N1226eaba051e4fcf9119146296a732f0,http://purl.org/dc/terms/format,http://publications.europa.eu/resource/authority/file-type/XLS
+http://data.overheid.nl/status/beschikbaar,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://data.overheid.nl/dcat.rdf#DatasetStatus
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://www.w3.org/ns/adms#identifier,https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016
+N9fb68fc834e542558d174b81e948dfd2,http://purl.org/dc/terms/format,http://publications.europa.eu/resource/authority/file-type/XLS
+N0bce7b559693484099bc689ef235a5c2,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://data.overheid.nl/dcat.rdf#Distribution
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,https://data.overheid.nl/dcat.rdf#accessRights,http://publications.europa.eu/resource/authority/access-right/PUBLIC
+N7c806236309440a69dd157ccc43c3a2e,http://purl.org/dc/terms/license,http://creativecommons.org/publicdomain/zero/1.0/deed.nl
+http://publications.europa.eu/resource/authority/file-type/SHP,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/vocabularies.rdf
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,https://data.overheid.nl/dcat.rdf#identifier,https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016
+Nd63f6832b8904c2cb02a376644e0aada,http://purl.org/dc/terms/description,ESRI Shapefile wijken 2016
+Ned7a2e160aca476399093dfceba03ac9,http://purl.org/dc/terms/title,Shape gemeente 2016
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://www.w3.org/ns/dcat#keyword,woningvoorraad
+Nd63f6832b8904c2cb02a376644e0aada,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016.rdf
+Ned7a2e160aca476399093dfceba03ac9,http://purl.org/dc/terms/format,http://publications.europa.eu/resource/authority/file-type/SHP
+N22ca7facd7af4bb88d335bc43a6431bd,http://www.w3.org/ns/dcat#accessURL,https://data.overheid.nl/OpenDataSets/LBM2016/Grid2016.zip
+N7c806236309440a69dd157ccc43c3a2e,http://purl.org/dc/terms/title,Shape PC4 2016
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://www.w3.org/ns/dcat#distribution,N22ca7facd7af4bb88d335bc43a6431bd
+N73c5fd4f415b48bc9b02aeed04ffcb48,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100.rdf
+Nac94bdfaf25846509f2b7b7b82359d87,http://purl.org/dc/terms/description,De data van de Leefbaarometer 2.0 meting 2002-2016 worden geleverd in 10 zipfiles met in totaal 15 Excelbestanden met de scores en 5 ESRI-shapefiles voor het maken van kaarten. Dit document is een toelichting bij deze bestanden.
+https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100,http://purl.org/dc/terms/issued,2020-04-02T21:36:27.305535
+N0bce7b559693484099bc689ef235a5c2,http://www.w3.org/ns/dcat#accessURL,https://data.overheid.nl/OpenDataSets/LBM2016/Grid.zip
+N0bce7b559693484099bc689ef235a5c2,http://purl.org/dc/terms/issued,2018-12-12T16:15:28.001849
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://www.w3.org/ns/dcat#keyword,wijken
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://www.w3.org/ns/dcat#keyword,BZK
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://purl.org/dc/terms/description,"Met behulp van de Leefbaarometer kan leefbaarheid in alle bewoonde wijken, buurten en straten in Nederland gemonitord worden. Op basis van een honderdtal objectieve indicatoren geeft de Leefbaarometer een schatting hoe de Leefbaarheid er is en hoe deze zich in de afgelopen jaren ontwikkeld heeft. Hiermee biedt de Leefbaarometer basismateriaal voor beleidsvoorbereiding, -bijsturing en –evaluatie voor verschillende partijen.
+
+Het model van de Leefbaarometer is in 2015 geheel herzien, waarna in 2016 de resultaten tot en met meetjaar 2014 zijn gepubliceerd. Iedere twee jaar vindt een nieuwe meting plaats met behulp van dit model.Deze dataset bevat - naast de resultaten ven voorgaande jaren - de resultaten met de data over 2016. Het gegevensbestand bevat de leefbaarheidsklassen en de ontwikkelingsklassen per gemeente/wijk/buurt/4ppc voor de jaren 2002, 2008, 2012, 2014 en 2016, plus de afwijkingen van het landelijk gemiddelde per dimensie voor de jaren 2012, 2014  en 2016. Daarnaast zijn de shapefiles voor de gebruikte topografische indelingen beschikbaar.
+"
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://www.w3.org/ns/dcat#keyword,leefbarometer
+Nd63f6832b8904c2cb02a376644e0aada,http://purl.org/dc/terms/title,Shape wijk 2016
+N0360313001144f93b790ff98035270fd,http://purl.org/dc/terms/issued,2018-12-12T16:15:28.001830
+N0360313001144f93b790ff98035270fd,http://purl.org/dc/terms/description,Gemiddelde leefbaarometerscore per wijk 2016
+N73c5fd4f415b48bc9b02aeed04ffcb48,http://purl.org/dc/terms/language,http://publications.europa.eu/resource/authority/language/NLD
+N0bce7b559693484099bc689ef235a5c2,http://purl.org/dc/terms/language,http://publications.europa.eu/resource/authority/language/NLD
+N22ca7facd7af4bb88d335bc43a6431bd,http://purl.org/dc/terms/license,http://creativecommons.org/publicdomain/zero/1.0/deed.nl
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,https://data.overheid.nl/dcat.rdf#metadataLanguage,http://publications.europa.eu/resource/authority/language/NLD
+http://publications.europa.eu/resource/authority/file-type/XLS,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://data.overheid.nl/dcat.rdf#Format
+Nac94bdfaf25846509f2b7b7b82359d87,http://purl.org/dc/terms/issued,2018-12-12T16:15:28.001805
+Nd63f6832b8904c2cb02a376644e0aada,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100.rdf
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://www.w3.org/ns/dcat#keyword,bewoners
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://www.w3.org/ns/dcat#distribution,N73c5fd4f415b48bc9b02aeed04ffcb48
+http://publications.europa.eu/resource/authority/file-type/PDF,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/vocabularies.rdf
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://www.w3.org/ns/adms#identifier,https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100
+N0360313001144f93b790ff98035270fd,http://purl.org/dc/terms/license,http://creativecommons.org/publicdomain/zero/1.0/deed.nl
+Na5043493c38743019c2f53dbb71a541d,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100.rdf
+Na5043493c38743019c2f53dbb71a541d,http://purl.org/dc/terms/issued,2018-12-12T16:15:28.001873
+Nac94bdfaf25846509f2b7b7b82359d87,http://purl.org/dc/terms/license,http://creativecommons.org/publicdomain/zero/1.0/deed.nl
+N7c806236309440a69dd157ccc43c3a2e,http://purl.org/dc/terms/issued,2018-12-12T16:15:28.001867
+http://publications.europa.eu/resource/authority/frequency/BIENNIAL,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://data.overheid.nl/dcat.rdf#Frequency
+N7c806236309440a69dd157ccc43c3a2e,http://purl.org/dc/terms/description,ESRI Shapefile pc4-gebieden 2016
+N1226eaba051e4fcf9119146296a732f0,http://purl.org/dc/terms/license,http://creativecommons.org/publicdomain/zero/1.0/deed.nl
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,https://data.overheid.nl/dcat.rdf#sourceCatalog,https://data.overheid.nl
+N73c5fd4f415b48bc9b02aeed04ffcb48,http://purl.org/dc/terms/issued,2018-12-12T16:15:28.001823
+N1226eaba051e4fcf9119146296a732f0,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100.rdf
+Nd63f6832b8904c2cb02a376644e0aada,http://purl.org/dc/terms/format,http://publications.europa.eu/resource/authority/file-type/SHP
+Nd63f6832b8904c2cb02a376644e0aada,http://purl.org/dc/terms/language,http://publications.europa.eu/resource/authority/language/NLD
+http://publications.europa.eu/resource/authority/frequency/BIENNIAL,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/vocabularies.rdf
+http://standaarden.overheid.nl/owms/terms/Ministerie_van_Binnenlandse_Zaken_en_Koninkrijksrelaties,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://data.overheid.nl/dcat.rdf#Organization
+http://publications.europa.eu/resource/authority/file-type/XLS,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/vocabularies.rdf
+https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100,http://purl.org/dc/terms/modified,2020-08-30T10:44:07.477286
+Nb6504a1aee4a4dc4899ffbe246a40bb1,http://www.w3.org/2006/vcard/fn,Simon Bakker
+N73c5fd4f415b48bc9b02aeed04ffcb48,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://data.overheid.nl/dcat.rdf#Distribution
+N73c5fd4f415b48bc9b02aeed04ffcb48,http://purl.org/dc/terms/format,http://publications.europa.eu/resource/authority/file-type/XLS
+N0bce7b559693484099bc689ef235a5c2,http://purl.org/dc/terms/format,http://publications.europa.eu/resource/authority/file-type/XLS
+Nd63f6832b8904c2cb02a376644e0aada,http://www.w3.org/ns/dcat#accessURL,https://data.overheid.nl/OpenDataSets/LBM2016/Wijk2016.zip
+https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100,http://xmlns.com/foaf/0.1/primaryTopic,https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://purl.org/dc/terms/modified,2018-01-08T17:17:36
+http://creativecommons.org/publicdomain/zero/1.0/deed.nl,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/vocabularies.rdf
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://purl.org/dc/terms/title,Leefbaarometer 2.0 = meting 2016
+N0360313001144f93b790ff98035270fd,http://purl.org/dc/terms/title,Score Leefbaaroemeter wijk 2016
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://www.w3.org/ns/dcat#keyword,veiligheid
+N0360313001144f93b790ff98035270fd,http://www.w3.org/ns/dcat#accessURL,https://data.overheid.nl/OpenDataSets/LBM2016/Wijk.zip
+Nd63f6832b8904c2cb02a376644e0aada,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://data.overheid.nl/dcat.rdf#Distribution
+N9fb68fc834e542558d174b81e948dfd2,http://purl.org/dc/terms/issued,2018-12-12T16:15:28.001843
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://www.w3.org/ns/dcat#keyword,buurten
+http://publications.europa.eu/resource/authority/access-right/PUBLIC,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/vocabularies.rdf
+N7c806236309440a69dd157ccc43c3a2e,http://purl.org/dc/terms/language,http://publications.europa.eu/resource/authority/language/NLD
+Na5043493c38743019c2f53dbb71a541d,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016.rdf
+Nac94bdfaf25846509f2b7b7b82359d87,http://www.w3.org/ns/dcat#accessURL,https://data.overheid.nl/OpenDataSets/LBM2016/Toelichting.pdf
+http://publications.europa.eu/resource/authority/language/NLD,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/vocabularies.rdf
+N1226eaba051e4fcf9119146296a732f0,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016.rdf
+Na5043493c38743019c2f53dbb71a541d,http://www.w3.org/ns/dcat#accessURL,https://data.overheid.nl/OpenDataSets/LBM2016/Buurt2016.zip
+https://data.overheid.nl/dataset/leefbaarometer-2-0---meting-2016,http://www.w3.org/ns/dcat#distribution,N0360313001144f93b790ff98035270fd
+https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,https://data.overheid.nl/dataset/d3a10e8a-8168-44c7-bee6-d77ac1dbf100.rdf
+Na5043493c38743019c2f53dbb71a541d,http://purl.org/dc/terms/license,http://creativecommons.org/publicdomain/zero/1.0/deed.nl
+Nb6504a1aee4a4dc4899ffbe246a40bb1,http://www.w3.org/2006/vcard/email,mailto:postbus.leefbaarometer@minbzk.nl
+N1226eaba051e4fcf9119146296a732f0,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://data.overheid.nl/dcat.rdf#Distribution
